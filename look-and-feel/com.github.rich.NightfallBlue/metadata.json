@@ -1,0 +1,21 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "",
+                "Name": "Rich"
+            }
+        ],
+        "Category": "Global Themes (Plasma 6)",
+        "ServiceTypes": ["Plasma/LookAndFeel"],
+        "Description": "A dark, modern blue global theme for KDE Plasma with semi-transparent blurred panel, rounded window corners, and clean aesthetics",
+        "Id": "com.github.rich.NightfallBlue",
+        "License": "GPL-3.0",
+        "Name": "Nightfall Blue",
+        "Website": "",
+        "Keywords": "Desktop;Workspace;Appearance;Look and Feel;Dark;Blue;Modern;Clean;",
+        "X-Plasma-APIVersion": "2",
+        "X-Plasma-MainScript": "defaults"
+    }
+}

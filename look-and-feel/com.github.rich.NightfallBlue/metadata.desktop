@@ -1,0 +1,15 @@
+[Desktop Entry]
+Comment=A dark, modern blue global theme with semi-transparent panel and clean aesthetics
+Encoding=UTF-8
+Keywords=Desktop;Workspace;Appearance;Look and Feel;Dark;Blue;Modern;Clean;
+Name=Nightfall Blue
+Type=Service
+X-KDE-ParentApp=
+X-KDE-PluginInfo-Author=Rich
+X-KDE-PluginInfo-Email=
+X-KDE-PluginInfo-License=GPL-3.0
+X-KDE-PluginInfo-Name=com.github.rich.NightfallBlue
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-Plasma-MainScript=defaults
