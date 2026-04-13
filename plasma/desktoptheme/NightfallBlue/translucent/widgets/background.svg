@@ -44,11 +44,11 @@
      gridtolerance="10"
      objecttolerance="10"
      borderopacity="1"
-     bordercolor="#666666"
+     bordercolor="#2e3450"
      pagecolor="#ffffff"
      inkscape:pagecheckerboard="0"
      inkscape:showpageshadow="2"
-     inkscape:deskcolor="#d1d1d1">
+     inkscape:deskcolor="#8890a0">
     <inkscape:grid
        type="xygrid"
        id="grid1049" />
@@ -58,48 +58,48 @@
     <style
        type="text/css"
        id="current-color-scheme">.ColorScheme-Text {
-        color:#31363b;
-        stop-color:#31363b;
+        color:#c8cdd8;
+        stop-color:#c8cdd8;
       }
       .ColorScheme-Background {
-        color:#eff0f1;
-        stop-color:#eff0f1;
+        color:#161a24;
+        stop-color:#161a24;
       }
       .ColorScheme-Highlight {
-        color:#3daee9;
-        stop-color:#3daee9;
+        color:#4a9eff;
+        stop-color:#4a9eff;
       }
       .ColorScheme-ViewText {
-        color:#31363b;
-        stop-color:#31363b;
+        color:#c8cdd8;
+        stop-color:#c8cdd8;
       }
       .ColorScheme-ViewBackground {
-        color:#fcfcfc;
-        stop-color:#fcfcfc;
+        color:#131620;
+        stop-color:#131620;
       }
       .ColorScheme-ViewHover {
-        color:#93cee9;
-        stop-color:#93cee9;
+        color:#4a9eff;
+        stop-color:#4a9eff;
       }
       .ColorScheme-ViewFocus{
-        color:#3daee9;
-        stop-color:#3daee9;
+        color:#4a9eff;
+        stop-color:#4a9eff;
       }
       .ColorScheme-ButtonText {
-        color:#31363b;
-        stop-color:#31363b;
+        color:#c8cdd8;
+        stop-color:#c8cdd8;
       }
       .ColorScheme-ButtonBackground {
-        color:#eff0f1;
-        stop-color:#eff0f1;
+        color:#161a24;
+        stop-color:#161a24;
       }
       .ColorScheme-ButtonHover {
-        color:#93cee9;
-        stop-color:#93cee9;
+        color:#4a9eff;
+        stop-color:#4a9eff;
       }
       .ColorScheme-ButtonFocus{
-        color:#3daee9;
-        stop-color:#3daee9;
+        color:#4a9eff;
+        stop-color:#4a9eff;
       }</style>
     <linearGradient
        id="a">
@@ -438,7 +438,7 @@
        id="rect62"
        opacity="0"
        fill="#161a24"
-       color="#eff0f1"
+       color="#161a24"
        height="32"
        width="6"
        y="-51"
@@ -473,7 +473,7 @@
        id="path71"
        opacity="0"
        fill="#161a24"
-       color="#eff0f1"
+       color="#161a24"
        d="m19 6c-3.324 0-6 2.676-6 6h6v-5z"
        transform="translate(0,904.36)" />
   </g>

@@ -1,34 +1,34 @@
 <svg width="128" height="128" version="1.0" xmlns="http://www.w3.org/2000/svg">
  <defs>
   <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
-        color:#31363b;
+        color:#c8cdd8;
       }
       .ColorScheme-Background{
-        color:#eff0f1;
+        color:#161a24;
       }
       .ColorScheme-ViewText {
-        color:#31363b;
+        color:#c8cdd8;
       }
       .ColorScheme-ViewBackground{
-        color:#fcfcfc;
+        color:#131620;
       }
       .ColorScheme-ViewHover {
-        color:#3daee9;
+        color:#4a9eff;
       }
       .ColorScheme-ViewFocus{
-        color:#3daee9;
+        color:#4a9eff;
       }
       .ColorScheme-ButtonText {
-        color:#31363b;
+        color:#c8cdd8;
       }
       .ColorScheme-ButtonBackground{
-        color:#eff0f1;
+        color:#161a24;
       }
       .ColorScheme-ButtonHover {
-        color:#3daee9;
+        color:#4a9eff;
       }
       .ColorScheme-ButtonFocus{
-        color:#3daee9;
+        color:#4a9eff;
       }</style>
  </defs>
  <g id="border-top" transform="matrix(.14444 0 0 1 7.6889 -99.922)">

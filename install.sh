@@ -48,6 +48,12 @@ install_theme() {
     cp -r "$SCRIPT_DIR/look-and-feel/com.github.rich.NightfallBlue" "$LOOKANDFEEL_DIR/"
     echo "  -> $LOOKANDFEEL_DIR/com.github.rich.NightfallBlue/"
 
+    # Clear Plasma theme cache (includes versioned files like _v1.0)
+    rm -f "$HOME/.cache/plasma_theme_${THEME_NAME}"*.kcache
+    rm -rf "$HOME/.cache/ksvg-elements" 2>/dev/null
+    rm -rf "$HOME/.cache/plasmashell/qmlcache" 2>/dev/null
+    echo "  -> Cleared Plasma theme caches"
+
     echo ""
     echo "Installation complete!"
     echo ""

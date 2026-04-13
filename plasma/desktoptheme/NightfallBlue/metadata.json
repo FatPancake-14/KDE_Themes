@@ -1,0 +1,20 @@
+{
+    "KPackageStructure": "Plasma/Theme",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "",
+                "Name": "Rich"
+            }
+        ],
+        "Category": "Plasma Theme",
+        "Description": "A dark, modern blue theme for KDE Plasma with semi-transparent panel and rounded window corners",
+        "EnabledByDefault": true,
+        "Id": "NightfallBlue",
+        "License": "GPL-3.0",
+        "Name": "Nightfall Blue",
+        "Version": "1.0",
+        "Website": ""
+    },
+    "X-Plasma-API": "5.0"
+}

@@ -5,48 +5,48 @@
  </g>
  <defs>
   <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
-        color:#31363b;
-        stop-color:#31363b;
+        color:#c8cdd8;
+        stop-color:#c8cdd8;
       }
       .ColorScheme-Background {
-        color:#eff0f1;
-        stop-color:#eff0f1;
+        color:#161a24;
+        stop-color:#161a24;
       }
       .ColorScheme-Highlight {
-        color:#3281ea;
-        stop-color:#3281ea;
+        color:#4a9eff;
+        stop-color:#4a9eff;
       }
       .ColorScheme-ViewText {
-        color:#31363b;
-        stop-color:#31363b;
+        color:#c8cdd8;
+        stop-color:#c8cdd8;
       }
       .ColorScheme-ViewBackground {
-        color:#fcfcfc;
-        stop-color:#fcfcfc;
+        color:#131620;
+        stop-color:#131620;
       }
       .ColorScheme-ViewHover {
-        color:#93cee9;
-        stop-color:#93cee9;
+        color:#4a9eff;
+        stop-color:#4a9eff;
       }
       .ColorScheme-ViewFocus{
-        color:#3281ea;
-        stop-color:#3281ea;
+        color:#4a9eff;
+        stop-color:#4a9eff;
       }
       .ColorScheme-ButtonText {
-        color:#31363b;
-        stop-color:#31363b;
+        color:#c8cdd8;
+        stop-color:#c8cdd8;
       }
       .ColorScheme-ButtonBackground {
-        color:#eff0f1;
-        stop-color:#eff0f1;
+        color:#161a24;
+        stop-color:#161a24;
       }
       .ColorScheme-ButtonHover {
-        color:#93cee9;
-        stop-color:#93cee9;
+        color:#4a9eff;
+        stop-color:#4a9eff;
       }
       .ColorScheme-ButtonFocus{
-        color:#3281ea;
-        stop-color:#3281ea;
+        color:#4a9eff;
+        stop-color:#4a9eff;
       }</style>
  </defs>
  <g id="checkbox" transform="translate(-21)">

@@ -30,8 +30,8 @@
      gridtolerance="10.0"
      objecttolerance="10.0"
      borderopacity="1.0"
-     bordercolor="#666666"
-     pagecolor="#3a3a3a"
+     bordercolor="#2e3450"
+     pagecolor="#2e3450"
      id="base"
      inkscape:zoom="5.656854"
      inkscape:cx="151.8176"
@@ -86,11 +86,11 @@
     <linearGradient
        id="linearGradient4119">
       <stop
-         style="stop-color:#3daee9;stop-opacity:0.40000001;"
+         style="stop-color:#4a9eff;stop-opacity:0.40000001;"
          offset="0"
          id="stop4121" />
       <stop
-         style="stop-color:#3daee9;stop-opacity:0;"
+         style="stop-color:#4a9eff;stop-opacity:0;"
          offset="1"
          id="stop4123" />
     </linearGradient>
@@ -99,20 +99,20 @@
       <stop
          id="stop4081"
          offset="0"
-         style="stop-color:#3daee9;stop-opacity:0.80000001;" />
+         style="stop-color:#4a9eff;stop-opacity:0.80000001;" />
       <stop
          id="stop4083"
          offset="1"
-         style="stop-color:#3daee9;stop-opacity:0;" />
+         style="stop-color:#4a9eff;stop-opacity:0;" />
     </linearGradient>
     <linearGradient
        id="linearGradient3990">
       <stop
-         style="stop-color:#232629;stop-opacity:0.2;"
+         style="stop-color:#c8cdd8;stop-opacity:0.2;"
          offset="0"
          id="stop3992" />
       <stop
-         style="stop-color:#232629;stop-opacity:0;"
+         style="stop-color:#c8cdd8;stop-opacity:0;"
          offset="1"
          id="stop3994" />
     </linearGradient>
@@ -269,34 +269,34 @@
     <style
        id="current-color-scheme"
        type="text/css">      .ColorScheme-Text {
-        color:#31363b;
+        color:#c8cdd8;
       }
       .ColorScheme-Background{
-        color:#eff0f1;
+        color:#161a24;
       }
       .ColorScheme-ViewText {
-        color:#31363b;
+        color:#c8cdd8;
       }
       .ColorScheme-ViewBackground{
-        color:#fcfcfc;
+        color:#131620;
       }
       .ColorScheme-ViewHover {
-        color:#3daee9;
+        color:#4a9eff;
       }
       .ColorScheme-ViewFocus{
-        color:#3daee9;
+        color:#4a9eff;
       }
       .ColorScheme-ButtonText {
-        color:#31363b;
+        color:#c8cdd8;
       }
       .ColorScheme-ButtonBackground{
-        color:#eff0f1;
+        color:#161a24;
       }
       .ColorScheme-ButtonHover {
-        color:#3daee9;
+        color:#4a9eff;
       }
       .ColorScheme-ButtonFocus{
-        color:#3daee9;
+        color:#4a9eff;
       }</style>
     <linearGradient
        id="linearGradient4932-7">

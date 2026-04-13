@@ -35,11 +35,11 @@
      gridtolerance="10"
      objecttolerance="10"
      borderopacity="1"
-     bordercolor="#666666"
-     pagecolor="#a8a8a8"
+     bordercolor="#2e3450"
+     pagecolor="#6b7280"
      inkscape:showpageshadow="2"
      inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1">
+     inkscape:deskcolor="#8890a0">
     <inkscape:grid
        id="grid1331"
        type="xygrid"
@@ -55,48 +55,48 @@
     <style
        type="text/css"
        id="current-color-scheme">.ColorScheme-Text {
-        color:#31363b;
-        stop-color:#31363b;
+        color:#c8cdd8;
+        stop-color:#c8cdd8;
       }
       .ColorScheme-Background {
-        color:#eff0f1;
-        stop-color:#eff0f1;
+        color:#161a24;
+        stop-color:#161a24;
       }
       .ColorScheme-Highlight {
-        color:#3daee9;
-        stop-color:#3daee9;
+        color:#4a9eff;
+        stop-color:#4a9eff;
       }
       .ColorScheme-ViewText {
-        color:#31363b;
-        stop-color:#31363b;
+        color:#c8cdd8;
+        stop-color:#c8cdd8;
       }
       .ColorScheme-ViewBackground {
-        color:#fcfcfc;
-        stop-color:#fcfcfc;
+        color:#131620;
+        stop-color:#131620;
       }
       .ColorScheme-ViewHover {
-        color:#93cee9;
-        stop-color:#93cee9;
+        color:#4a9eff;
+        stop-color:#4a9eff;
       }
       .ColorScheme-ViewFocus{
-        color:#3daee9;
-        stop-color:#3daee9;
+        color:#4a9eff;
+        stop-color:#4a9eff;
       }
       .ColorScheme-ButtonText {
-        color:#31363b;
-        stop-color:#31363b;
+        color:#c8cdd8;
+        stop-color:#c8cdd8;
       }
       .ColorScheme-ButtonBackground {
-        color:#eff0f1;
-        stop-color:#eff0f1;
+        color:#161a24;
+        stop-color:#161a24;
       }
       .ColorScheme-ButtonHover {
-        color:#93cee9;
-        stop-color:#93cee9;
+        color:#4a9eff;
+        stop-color:#4a9eff;
       }
       .ColorScheme-ButtonFocus{
-        color:#3daee9;
-        stop-color:#3daee9;
+        color:#4a9eff;
+        stop-color:#4a9eff;
       }</style>
   </defs>
   <rect
@@ -713,7 +713,7 @@
   <g
      transform="matrix(0.99999999,0,0,0.71348867,109.99996,-676.56601)"
      id="toolbutton-hover-bottom"
-     style="fill:#565656;stroke-width:1.32361">
+     style="fill:#2e3450;stroke-width:1.32361">
     <g
        id="g141-0"
        transform="translate(-48,994.36)"
@@ -865,7 +865,7 @@
   <g
      transform="matrix(0.99999999,0,0,0.71348862,164.99997,-676.56606)"
      id="toolbutton-pressed-bottom"
-     style="fill:#565656;stroke-width:1.32361">
+     style="fill:#2e3450;stroke-width:1.32361">
     <g
        id="g141-0-9"
        transform="translate(-48,994.36)"
@@ -1048,7 +1048,7 @@
   <g
      transform="matrix(1,0,0,0.71348868,109.99996,-620.566)"
      id="toolbutton-focus-bottom"
-     style="fill:#565656;stroke-width:1.32361">
+     style="fill:#2e3450;stroke-width:1.32361">
     <g
        id="g141-0-3"
        transform="translate(-48,994.36)"

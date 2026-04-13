@@ -1,47 +1,47 @@
 <svg width="48" height="48" style="" version="1.1" xmlns="http://www.w3.org/2000/svg">
  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
-            color:#232629;
-            stop-color:#232629;
+            color:#c8cdd8;
+            stop-color:#c8cdd8;
         }
         .ColorScheme-Background {
-            color:#eff0f1;
-            stop-color:#eff0f1;
+            color:#161a24;
+            stop-color:#161a24;
         }
         .ColorScheme-Highlight {
-            color:#3daee9;
-            stop-color:#3daee9;
+            color:#4a9eff;
+            stop-color:#4a9eff;
         }
         .ColorScheme-ViewText {
-            color:#232629;
-            stop-color:#232629;
+            color:#c8cdd8;
+            stop-color:#c8cdd8;
         }
         .ColorScheme-ViewBackground {
-            color:#fcfcfc;
-            stop-color:#fcfcfc;
+            color:#131620;
+            stop-color:#131620;
         }
         .ColorScheme-ViewHover {
-            color:#3daee9;
-            stop-color:#3daee9;
+            color:#4a9eff;
+            stop-color:#4a9eff;
         }
         .ColorScheme-ViewFocus{
-            color:#3daee9;
-            stop-color:#3daee9;
+            color:#4a9eff;
+            stop-color:#4a9eff;
         }
         .ColorScheme-ButtonText {
-            color:#232629;
-            stop-color:#232629;
+            color:#c8cdd8;
+            stop-color:#c8cdd8;
         }
         .ColorScheme-ButtonBackground {
-            color:#eff0f1;
-            stop-color:#eff0f1;
+            color:#161a24;
+            stop-color:#161a24;
         }
         .ColorScheme-ButtonHover {
-            color:#3daee9;
-            stop-color:#3daee9;
+            color:#4a9eff;
+            stop-color:#4a9eff;
         }
         .ColorScheme-ButtonFocus{
-            color:#3daee9;
-            stop-color:#3daee9;
+            color:#4a9eff;
+            stop-color:#4a9eff;
         }</style>
  <g transform="translate(-19 1)" style="">
   <rect id="hint-tile-center" x="65" y="-3" width="2" height="2" rx="2.0771" fill="#4e9a06"/>

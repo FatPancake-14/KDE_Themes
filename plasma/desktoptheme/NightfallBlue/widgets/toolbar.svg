@@ -26,7 +26,7 @@
   </metadata>
   <sodipodi:namedview
      pagecolor="#ffffff"
-     bordercolor="#666666"
+     bordercolor="#2e3450"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -46,54 +46,54 @@
      inkscape:current-layer="svg17"
      inkscape:showpageshadow="2"
      inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1" />
+     inkscape:deskcolor="#8890a0" />
   <defs
      id="defs3">
     <style
        id="current-color-scheme"
        type="text/css">.ColorScheme-Text {
-        color:#31363b;
-        stop-color:#31363b;
+        color:#c8cdd8;
+        stop-color:#c8cdd8;
       }
       .ColorScheme-Background {
-        color:#eff0f1;
-        stop-color:#eff0f1;
+        color:#161a24;
+        stop-color:#161a24;
       }
       .ColorScheme-Highlight {
-        color:#3281ea;
-        stop-color:#3281ea;
+        color:#4a9eff;
+        stop-color:#4a9eff;
       }
       .ColorScheme-ViewText {
-        color:#31363b;
-        stop-color:#31363b;
+        color:#c8cdd8;
+        stop-color:#c8cdd8;
       }
       .ColorScheme-ViewBackground {
-        color:#fcfcfc;
-        stop-color:#fcfcfc;
+        color:#131620;
+        stop-color:#131620;
       }
       .ColorScheme-ViewHover {
-        color:#93cee9;
-        stop-color:#93cee9;
+        color:#4a9eff;
+        stop-color:#4a9eff;
       }
       .ColorScheme-ViewFocus{
-        color:#3281ea;
-        stop-color:#3281ea;
+        color:#4a9eff;
+        stop-color:#4a9eff;
       }
       .ColorScheme-ButtonText {
-        color:#31363b;
-        stop-color:#31363b;
+        color:#c8cdd8;
+        stop-color:#c8cdd8;
       }
       .ColorScheme-ButtonBackground {
-        color:#eff0f1;
-        stop-color:#eff0f1;
+        color:#161a24;
+        stop-color:#161a24;
       }
       .ColorScheme-ButtonHover {
-        color:#93cee9;
-        stop-color:#93cee9;
+        color:#4a9eff;
+        stop-color:#4a9eff;
       }
       .ColorScheme-ButtonFocus{
-        color:#3281ea;
-        stop-color:#3281ea;
+        color:#4a9eff;
+        stop-color:#4a9eff;
       }</style>
   </defs>
   <rect

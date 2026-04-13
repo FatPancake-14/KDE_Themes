@@ -15,7 +15,7 @@
   <sodipodi:namedview
      id="namedview120"
      pagecolor="#ffffff"
-     bordercolor="#666666"
+     bordercolor="#2e3450"
      borderopacity="1.0"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -39,48 +39,48 @@
     <style
        id="current-color-scheme"
        type="text/css">.ColorScheme-Text {
-        color:#31363b;
-        stop-color:#31363b;
+        color:#c8cdd8;
+        stop-color:#c8cdd8;
       }
       .ColorScheme-Background {
-        color:#eff0f1;
-        stop-color:#eff0f1;
+        color:#161a24;
+        stop-color:#161a24;
       }
       .ColorScheme-Highlight {
-        color:#3281ea;
-        stop-color:#3281ea;
+        color:#4a9eff;
+        stop-color:#4a9eff;
       }
       .ColorScheme-ViewText {
-        color:#31363b;
-        stop-color:#31363b;
+        color:#c8cdd8;
+        stop-color:#c8cdd8;
       }
       .ColorScheme-ViewBackground {
-        color:#fcfcfc;
-        stop-color:#fcfcfc;
+        color:#131620;
+        stop-color:#131620;
       }
       .ColorScheme-ViewHover {
-        color:#93cee9;
-        stop-color:#93cee9;
+        color:#4a9eff;
+        stop-color:#4a9eff;
       }
       .ColorScheme-ViewFocus{
-        color:#3281ea;
-        stop-color:#3281ea;
+        color:#4a9eff;
+        stop-color:#4a9eff;
       }
       .ColorScheme-ButtonText {
-        color:#31363b;
-        stop-color:#31363b;
+        color:#c8cdd8;
+        stop-color:#c8cdd8;
       }
       .ColorScheme-ButtonBackground {
-        color:#eff0f1;
-        stop-color:#eff0f1;
+        color:#161a24;
+        stop-color:#161a24;
       }
       .ColorScheme-ButtonHover {
-        color:#93cee9;
-        stop-color:#93cee9;
+        color:#4a9eff;
+        stop-color:#4a9eff;
       }
       .ColorScheme-ButtonFocus{
-        color:#3281ea;
-        stop-color:#3281ea;
+        color:#4a9eff;
+        stop-color:#4a9eff;
       }</style>
     <linearGradient
        id="linearGradient4270">
@@ -499,11 +499,11 @@
      y="80"
      width="12"
      height="12"
-     color="#eff0f1"
+     color="#161a24"
      opacity="0"
      stroke-width=".375" />
   <rect
-     style="color:#eff0f1;opacity:0.9;fill:currentColor;fill-opacity:1;stroke:none;stop-color:#eff0f1"
+     style="color:#161a24;opacity:0.9;fill:currentColor;fill-opacity:1;stroke:none;stop-color:#161a24"
      id="thick-center"
      width="32"
      height="32"
